@@ -7,7 +7,7 @@ My Personal Profile.
 ```javascript
 👤Name : Lang ( Gilang )
 🏙️From : Pekanbaru, Sumatera.
-🎂Age : 13 Y.o
+🎂Age : 15
 🎮Hobby : Game/Code/Watch.
 📎Fav Language : JavaScript.
 ```
