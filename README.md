@@ -52,7 +52,7 @@ Currently deepening my skills in **TypeScript**, **Next.js App Router**, and **A
 
 Open to **internship**, **freelance**, or **entry-level** opportunities.
 
-- 🌐 Portfolio: [isntlang.my.id](https://lang.is-a.dev)
+- 🌐 Portfolio: [lang.is-a.dev](https://lang.is-a.dev)
 - 📸 Instagram: [@l4lang](https://instagram.com/l4lang)
 - 📧 Reach me via Instagram DM or GitHub
 
